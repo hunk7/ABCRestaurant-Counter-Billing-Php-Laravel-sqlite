@@ -3,7 +3,7 @@
  License : MIT        
  github.com/hunk7     
  
- Screenshots are in Abstract File [a relative link](https://github.com/hunk7/)
+ Screenshots are in Abstract File [a relative link](https://github.com/hunk7/ABCRestaurant-Counter-Billing-Php-Laravel-sqlite/blob/master/Abstract.docx)
 
 THANK YOU
 
